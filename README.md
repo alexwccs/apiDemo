@@ -1,5 +1,5 @@
 
-[![Java CI](https://github.com/alexwccs/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)
+![Java CI](https://github.com/alexwccs/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)
 
 API demo project
 =================
